@@ -1,4 +1,9 @@
 # NewsApp
+This Application is made with Database (API)
 
+| **App for semester 1** |
+| :--: |
 
-FIXED
+## The Result
+| **COMMING SOON** |
+| :--: |
